@@ -1,4 +1,5 @@
-Создать запросы в Postman.
+Postman HW #1
+Make request collection for this code:
 
 Protocol: http
 IP: 162.55.220.72
